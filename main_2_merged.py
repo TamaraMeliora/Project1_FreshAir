@@ -206,7 +206,7 @@ def compute_region_abs_change(df):
     ).reset_index()
 
 def main():
-    filepath = r'/Users/tomamely/Desktop/covid-hospit-incid-reg-2023-03-31-18h01.csv'
+    filepath = "./data/file.csv"
 
     cases_france = load_and_clean_data(filepath)
     cases_france = filter_mainland_regions(cases_france)
