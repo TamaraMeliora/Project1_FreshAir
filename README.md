@@ -34,11 +34,7 @@ To investigate whether air pollution levels — particularly PM2.5 — had an im
 
 ## 📁 Project Structure
 
-📦 Project_FreshAir
-├── freshair_analysis.py # Main data analysis script
-├── Presentation_FreshAir.pdf # Final presentation slides
-├── Sources/ # Reference materials and notes
-└── README.md # Project description (this file)
+<pre> ## 📁 Project Structure ``` 📦 Project_FreshAir ├── freshair_analysis.py # Main data analysis script ├── Presentation_FreshAir.pdf # Final presentation slides ├── Sources/ # Reference materials and notes └── README.md # Project description (this file) ``` </pre>
 
 ---
 
