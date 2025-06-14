@@ -57,21 +57,14 @@ To investigate whether air pollution levels — particularly PM2.5 — had an im
 ---
 
 
-👥 Authors
+👥 Authors:
+
 Tamara Melioranskaia
 
 Max Pisolkar
 
-🧠 Conclusion
+🧠 Conclusion:
+
 The link between air pollution and COVID-19 varies by region. While no universal pattern was found, moderate positive correlations in certain areas suggest that air quality may influence public health outcomes during pandemics. Continued monitoring and region-specific analysis is essential.
 
-📚 Data Sources
-OpenAQ API
-
-disease.sh API
-
-Data.gouv.fr
-
-
----
 
